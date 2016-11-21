@@ -1,0 +1,27 @@
+.outer{
+	width: 800px;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0px;
+}
+
+.top{
+	width: 50%;
+	border: 1px black;
+	display: inline-block;
+}
+
+.bottom{
+	width: 33.33%;
+	border: 1px black;
+	display: inline-block;
+}
+
+.green{
+	background-color: green;
+}
+
+.blue{
+	background-color: blue;
+}
