@@ -1,6 +1,5 @@
 .outer{
 	width: 800px;
-	height: 500px;
 	margin-right: auto;
 	margin-left: auto;
 	font-size: 0px;
@@ -8,11 +7,13 @@
 
 .top{
 	width: 50%;
+	height: 200px;
 	border: 1px black;
 	display: inline-block;
 }
 
 .bottom{
+	height: 300px;
 	width: 33.33%;
 	border: 1px black;
 	display: inline-block;
@@ -24,4 +25,16 @@
 
 .blue{
 	background-color: blue;
+}
+
+.gray{
+	background-color: gray;
+}
+
+.black{
+	background-color: black;
+}
+
+.orange{
+	background-color: orange;
 }
